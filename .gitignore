@@ -1,2 +1,5 @@
 .venv/
+.idea/
 *.zip
+*.jsonl
+.DS_store
